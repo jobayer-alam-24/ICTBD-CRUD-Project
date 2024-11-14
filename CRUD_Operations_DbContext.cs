@@ -12,7 +12,7 @@ namespace ICTBD_CRUD_Project
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=BankingManagementSystem;Trusted_Connection=true;Encrypt=false;MultipleActiveResultSets=true");
+            optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=ProductManagementSystem;Trusted_Connection=true;Encrypt=false;MultipleActiveResultSets=true");
         }
     }
 }
