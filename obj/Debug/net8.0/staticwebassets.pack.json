@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\earbuds.jpg",
+      "PackagePath": "staticwebassets\\images\\earbuds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\gaming_laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\gaming_laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\kettle.jpg",
+      "PackagePath": "staticwebassets\\images\\kettle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\running_shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\running_shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\smart_phone.jpg",
+      "PackagePath": "staticwebassets\\images\\smart_phone.jpg"
+    },
+    {
       "Id": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

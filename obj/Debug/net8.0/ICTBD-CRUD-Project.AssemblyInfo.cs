@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICTBD-CRUD-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a56eec899ba87c5e30c88101e0603a1bcd8580f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f5427df10e307e6be35c177e27e7737150b8c4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICTBD-CRUD-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICTBD-CRUD-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
