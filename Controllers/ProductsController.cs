@@ -10,9 +10,16 @@ namespace ICTBD_CRUD_Project.Controllers
 {
     public class ProductsController : Controller
     {
-        public IActionResult Index()
+        private readonly CRUD_Operations_DbContext _CONTEXT;
+        public ProductsController()
         {
-            return View();
+            _CONTEXT = new CRUD_Operations_DbContext();
+        }
+        public IActionResult Index()
+        {   
+            //Select from DB and convert to List 
+            var products = _CONTEXT.Products.ToList();
+            return View(products);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
