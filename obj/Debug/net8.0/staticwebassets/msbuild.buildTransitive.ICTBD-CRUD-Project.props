@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ICTBD-CRUD-Project.props" />
+</Project>

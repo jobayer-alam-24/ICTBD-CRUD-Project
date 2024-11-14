@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ICTBD-CRUD-Project.props" />
+</Project>
