@@ -2,9 +2,15 @@
 
 <div class="row">
     <div class="col-md-8 mx-auto rounded border p-3">
-        <h2 class="text-center mb-5">New Product</h2>
+        <h2 class="text-center mb-5">Edit Product</h2>
 
         <form asp-action="Create" asp-controller="Products" enctype="multipart/form-data" method="post">
+            <div class="row mb-3">
+                <label for="id" class="col-sm-4 col-form-label">ID</label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" readonly value="@(ViewData["ProductId"])"></input>
+                </div>
+            </div>
             <div class="row mb-3">
                 <label for="name" class="col-sm-4 col-form-label">Name</label>
                 <div class="col-sm-8">
@@ -47,10 +53,21 @@
                 </div>
             </div>
             <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-8">
+                    <img src="/images/@(ViewData["ImageFileName"])" alt="Image" width="150">
+                </div>
+            </div>
+            <div class="row mb-3">
                 <label for="imagefile" class="col-sm-4 col-form-label">Image</label>
                 <div class="col-sm-8">
                     <input class="form-control" asp-for="ImageFile"></input>
                     <span class="text-danger" asp-validation-for="ImageFile"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Created At</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control-plaintext" readonly value="@(ViewData["CreatedAt"])">
                 </div>
             </div>
             <div class="row">
