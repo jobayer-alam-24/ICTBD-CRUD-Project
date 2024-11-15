@@ -26,5 +26,8 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "products",
     pattern: "{controller=Products}/{action=Index}/{id?}");
+app.MapControllerRoute(
+    name: "products",
+    pattern: "{controller=Products}/{action=Create}/{id?}");
 
 app.Run();

@@ -21,7 +21,10 @@ namespace ICTBD_CRUD_Project.Controllers
             var products = _CONTEXT.Products.ToList();
             return View(products);
         }
-
+        public IActionResult Create()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
