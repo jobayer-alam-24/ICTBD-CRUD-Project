@@ -38,6 +38,7 @@
                 <td>@Product.CreatedAt.ToString("MM-dd-yyyy")</td>
                 <td style="white-space: nowrap;">
                     <a class="btn btn-primary btn-sm" asp-controller="Products" asp-action="Edit" asp-route-id="@Product.Id">Edit</a>
+                    <a class="btn btn-warning btn-sm" asp-controller="Products" asp-action="Details" asp-route-id="@Product.Id">Details</a>
                     <a class="btn btn-danger btn-sm" asp-controller="Products" asp-action="Delete" asp-route-id="@Product.Id">Delete</a>
                 </td>
             </tr>

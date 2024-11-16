@@ -30,6 +30,11 @@ namespace ICTBD_CRUD_Project.Controllers
         {
             return View();
         }
+        public IActionResult Details(int id)
+        {
+            var product = _CONTEXT.Products.Find(id);
+            return View(product);
+        }
         [HttpPost]
         public IActionResult Create(ProductDto productDto)
         {
