@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sEkehJSHHQHWAR1u/wFq/epU2KPd3yCbvkeaq/nTlq4=",
+  "Hash": "RwMbpbA41SBPjE5/j4oyBGgopLgh+gO7X8koKUnshG4=",
   "Source": "ICTBD-CRUD-Project",
   "BasePath": "_content/ICTBD-CRUD-Project",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\20241115100729734.jpg",
+      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\20241116174330980.jpg",
       "SourceId": "ICTBD-CRUD-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\",
       "BasePath": "_content/ICTBD-CRUD-Project",
-      "RelativePath": "images/20241115100729734.jpg",
+      "RelativePath": "images/20241116174330980.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\20241115100729734.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\20241116174330980.jpg"
     },
     {
       "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\earbuds.jpg",
@@ -131,25 +131,6 @@
       "OriginalItemSpec": "wwwroot\\images\\earbuds.jpg"
     },
     {
-      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\gaming_laptop.jpg",
-      "SourceId": "ICTBD-CRUD-Project",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\",
-      "BasePath": "_content/ICTBD-CRUD-Project",
-      "RelativePath": "images/gaming_laptop.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gaming_laptop.jpg"
-    },
-    {
       "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\kettle.jpg",
       "SourceId": "ICTBD-CRUD-Project",
       "SourceType": "Discovered",
@@ -169,12 +150,12 @@
       "OriginalItemSpec": "wwwroot\\images\\kettle.jpg"
     },
     {
-      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\running_shoes.jpg",
+      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\laptop.jpg",
       "SourceId": "ICTBD-CRUD-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\",
       "BasePath": "_content/ICTBD-CRUD-Project",
-      "RelativePath": "images/running_shoes.jpg",
+      "RelativePath": "images/laptop.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\running_shoes.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\laptop.jpg"
     },
     {
-      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\smart_phone.jpg",
+      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\running_shoe.jpg",
       "SourceId": "ICTBD-CRUD-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\",
       "BasePath": "_content/ICTBD-CRUD-Project",
-      "RelativePath": "images/smart_phone.jpg",
+      "RelativePath": "images/running_shoe.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +185,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\smart_phone.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\running_shoe.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\images\\smartphone.jpg",
+      "SourceId": "ICTBD-CRUD-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\",
+      "BasePath": "_content/ICTBD-CRUD-Project",
+      "RelativePath": "images/smartphone.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\smartphone.jpg"
     },
     {
       "Identity": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\ICTBD-CRUD-Project\\wwwroot\\js\\site.js",
